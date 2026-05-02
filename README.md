@@ -135,12 +135,17 @@ plt.show()
 ---
 # IDEAL SAMPLING
 ---
+<img width="989" height="789" alt="IDEAL" src="https://github.com/user-attachments/assets/90ebe268-79e8-47c2-85ac-961d5e4e8cc6" />
+
 
 # NATURAL SAMPLING
 ---
+<img width="981" height="887" alt="NATURAL" src="https://github.com/user-attachments/assets/cff424e1-0148-48f4-b590-165acc1bc734" />
 
 # FLAT-TOP SAMPLING
 ---
+<img width="981" height="887" alt="FLAT FOP" src="https://github.com/user-attachments/assets/e9ca2017-8222-459e-b9be-3397c2258668" />
+
 # Results
 ---
 Thus, the construction and reconstruction of Ideal, Natural, and Flat-top sampling were
