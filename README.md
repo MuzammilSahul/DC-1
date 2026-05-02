@@ -11,7 +11,7 @@ flattop sampling.
 
 # Program
 ---
-# IDEAL SAMPLING
+# IDEAL SAMPLING:
 ---
 ```
 import numpy as np
@@ -46,7 +46,7 @@ plt.tight_layout(rect=[0,0,1,0.93])
 plt.show()
 ```
 
-# NATURAL SAMPLING
+# NATURAL SAMPLING:
 ---
 
 ```
