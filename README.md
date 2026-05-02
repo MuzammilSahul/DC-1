@@ -2,13 +2,13 @@
 ---
 # AIM
 ---
-To Write a simple Python program for the construction and reconstruction of ideal, natural, and
+ To Write a simple Python program for the construction and reconstruction of ideal, natural, and
 flattop sampling.
 ---
 # Tools required
 ---
 - Python IDE
-
+---
 # Program
 ---
 # IDEAL SAMPLING:
@@ -150,3 +150,4 @@ plt.show()
 ---
 Thus, the construction and reconstruction of Ideal, Natural, and Flat-top sampling were
 successfully implemented using Python, and the corresponding waveforms were obtained
+---
